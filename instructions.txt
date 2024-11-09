@@ -1,0 +1,10 @@
+Instructions
+
+5.- 
+	C:\Users\student\Desktop\GH\Session8\Exercise_session_8>git add "White snow"
+	C:\Users\student\Desktop\GH\Session8\Exercise_session_8>git commit -m "commit for step 5"
+	C:\Users\student\Desktop\GH\Session8\Exercise_session_8>git push
+6.- 
+	C:\Users\student\Desktop\GH\Session8\Exercise_session_8>git add "seccondfileadded"
+	C:\Users\student\Desktop\GH\Session8\Exercise_session_8>git commit -m "commit for step 6"
+	C:\Users\student\Desktop\GH\Session8\Exercise_session_8>git push
